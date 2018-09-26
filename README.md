@@ -15,6 +15,8 @@
 | [`ag`](https://github.com/ggreer/the_silver_searcher) | works with `ack` could replace `grep` become fast and user-friendly | ![ag-demo](https://remysharp.com/images/cli-improved/ack.png) |
 | [`bridgy`](https://github.com/wagoodman/bridgy) | ssh + tmux + sshfs + cloud inventory search | ![bridgy-demo](https://github.com/wagoodman/bridgy/raw/master/demo.gif) |
 | [`crunch`](https://github.com/chrissimpkins/Crunch) | lossy PNG image file optimization | -- |
+| [`powerline`](https://github.com/powerline/powerline) | vim plugin to present status line and prompt | -- |
+| [`byobu-tmux`](http://byobu.co/) | replace `tmux`, enhance profiles, keybindings, configuration utilities... | ![byobu-tmux-demo](http://byobu.co/img/Screenshot_from_2014-07-26_15:39:16.png) |
 
 ## Python
 
@@ -32,3 +34,5 @@
 | [rebound](https://github.com/shobrook/rebound) | fetch StackOverFlow when the code compile error | ![rebound-demo](https://github.com/shobrook/rebound/raw/master/docs/demo.gif)
 | [perfplot](https://github.com/nschloe/perfplot) | Performance plots for Python code | ![perfplot-demo](https://camo.githubusercontent.com/a81aafc5d90d2bcb965ed4d5ece67e2d93b1efdc/68747470733a2f2f6e7363686c6f652e6769746875622e696f2f70657266706c6f742f636f6e6361742e706e67) |
 | [python-fire](https://github.com/google/python-fire) | auto generate CLI-interface | -- |
+| [fake-useragent](https://pypi.org/project/fake-useragent/) | generate the useragent | -- |
+| [browsercookie](https://bitbucket.org/richardpenman/browsercookie) | load your browser cookies | -- |
