@@ -19,6 +19,19 @@
 | [`byobu-tmux`](http://byobu.co/) | replace `tmux`, enhance profiles, keybindings, configuration utilities... | ![byobu-tmux-demo](http://byobu.co/img/Screenshot_from_2014-07-26_15:39:16.png) |
 | [`nvtop`](https://github.com/Syllo/nvtop) | NVIDIA GPUs htop like monitoring tool | ![nvtop-demo](https://github.com/Syllo/nvtop/raw/master/screenshot/NVTOP_ex1.png) |
 
+## Vim Plugin
+
+| plugin | function | demo |
+| ------ | -------- | ---- |
+| [`rainbow_csv`](https://github.com/mechatroner/rainbow_csv) | Highlight columns in CSV and TSV files and run queries in SQL-like language | ![rainbow_csv-demo](https://camo.githubusercontent.com/a2fe471ea1471edbee9e2d5849c51af102980f17/68747470733a2f2f692e696d6775722e636f6d2f546e6b394b5a762e676966) |
+
+## VSCode Plugin
+
+| plugin | function | demo |
+| ------ | -------- | ---- |
+| [`vscode_rainbow_csv`](https://github.com/mechatroner/vscode_rainbow_csv) | Highlight CSV and TSV spreadsheet files in different rainbow colors | ![vs_rainbow_csv-demo](https://camo.githubusercontent.com/8bb57314d174a3471dcadbedb9c16dd4a30b0f1a/68747470733a2f2f692e696d6775722e636f6d2f5052464b56494e2e706e67) |
+| [`vscode-gitlens`](https://github.com/eamodio/vscode-gitlens) | Supercharge the Git capabilities built into Visual Studio Code | -- |
+
 ## Python
 
 | package | function | demo |
