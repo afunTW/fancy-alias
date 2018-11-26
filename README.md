@@ -18,6 +18,7 @@
 | [`powerline`](https://github.com/powerline/powerline) | vim plugin to present status line and prompt | -- |
 | [`byobu-tmux`](http://byobu.co/) | replace `tmux`, enhance profiles, keybindings, configuration utilities... | ![byobu-tmux-demo](http://byobu.co/img/Screenshot_from_2014-07-26_15:39:16.png) |
 | [`nvtop`](https://github.com/Syllo/nvtop) | NVIDIA GPUs htop like monitoring tool | ![nvtop-demo](https://github.com/Syllo/nvtop/raw/master/screenshot/NVTOP_ex1.png) |
+| [`sshrc`](https://github.com/Russell91/sshrc) | bring your .bashrc, .vimrc, etc. with you when you ssh | -- |
 
 ## Vim Plugin
 
