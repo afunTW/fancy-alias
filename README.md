@@ -51,3 +51,4 @@
 | [python-fire](https://github.com/google/python-fire) | auto generate CLI-interface | -- |
 | [fake-useragent](https://pypi.org/project/fake-useragent/) | generate the useragent | -- |
 | [browsercookie](https://bitbucket.org/richardpenman/browsercookie) | load your browser cookies | -- |
+| [coloredlogs](https://github.com/xolox/python-coloredlogs) | Colored stream handler for Python's logging module | ![coloredlogs-demo](https://camo.githubusercontent.com/051f32c9866c6f552682955b5fde580778c63a94/68747470733a2f2f636f6c6f7265646c6f67732e72656164746865646f63732e696f2f656e2f6c61746573742f5f696d616765732f64656661756c74732e706e67) |
