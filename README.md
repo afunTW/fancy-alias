@@ -1,5 +1,15 @@
 # better-working-with
 
+## Index
+
+- [better-working-with](#better-working-with)
+  - [Index](#index)
+  - [CLI](#cli)
+  - [Software](#software)
+  - [Vim Plugin](#vim-plugin)
+  - [VSCode Plugin](#vscode-plugin)
+  - [Python](#python)
+
 ## CLI
 
 > most of script is reference with https://remysharp.com/2018/08/23/cli-improved
@@ -19,6 +29,13 @@
 | [`byobu-tmux`](http://byobu.co/) | replace `tmux`, enhance profiles, keybindings, configuration utilities... | ![byobu-tmux-demo](http://byobu.co/img/Screenshot_from_2014-07-26_15:39:16.png) |
 | [`nvtop`](https://github.com/Syllo/nvtop) | NVIDIA GPUs htop like monitoring tool | ![nvtop-demo](https://github.com/Syllo/nvtop/raw/master/screenshot/NVTOP_ex1.png) |
 | [`sshrc`](https://github.com/Russell91/sshrc) | bring your .bashrc, .vimrc, etc. with you when you ssh | -- |
+| [`exa`](https://the.exa.website/) | A modern replacement for ls | ![exa-demo](https://user-images.githubusercontent.com/4820492/50332646-bdfb0780-053d-11e9-974e-9302300ab681.png) |
+
+## Software
+
+| plugin | function | demo |
+| ------ | -------- | ---- |
+| [flameshot](https://github.com/lupoDharkael/flameshot) | Powerful yet simple to use screenshot software | ![flamshot-demo](https://github.com/lupoDharkael/flameshot/raw/master/img/preview/animatedUsage.gif) |
 
 ## Vim Plugin
 
