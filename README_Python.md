@@ -2,6 +2,7 @@
 
 | package | function | demo |
 | ------- | -------- | ---- |
+| [Delegator.py](https://github.com/kennethreitz/delegator.py) | Subprocesses for Humans 2.0. | -- |
 | [tqdm](https://github.com/tqdm/tqdm) | progress bar | ![tqdm-demo](https://raw.githubusercontent.com/tqdm/tqdm/master/images/tqdm.gif) |
 | [better-exceptions](https://github.com/Qix-/better-exceptions) | Pretty and more helpful exceptions | ![better-exception-demo](https://github.com/Qix-/better-exceptions/raw/master/screenshot.png) |
 | [logme](https://github.com/BNMetrics/logme) | colorful logging | ![logme-demo](https://camo.githubusercontent.com/87caa7a4db779bab89268287c75db23da80435ad/687474703a2f2f6c6f676d652e72656164746865646f63732e696f2f656e2f6c61746573742f5f696d616765732f64656d6f5f636f6c6f722e706e67) |
