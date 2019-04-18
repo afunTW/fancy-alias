@@ -2,6 +2,12 @@
 
 | package | function | demo |
 | ------- | -------- | ---- |
+| [black](https://github.com/ambv/black) | The uncompromising Python code formatter | -- |
+| [requests-async](https://github.com/encode/requests-async) | async-await support for `requests` | -- |
+| [pyright](https://github.com/Microsoft/pyright) | Static type checker for Python (Microsoft) | -- |
+| [MonkeyType](https://github.com/Instagram/MonkeyType) | A system for Python that generates static type annotations by collecting runtime types | -- |
+| [more-itertools](https://github.com/erikrose/more-itertools) | More routines for operating on iterables, beyond itertools | -- |
+| [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | ![loguru-demo](https://raw.githubusercontent.com/Delgan/loguru/master/docs/_static/img/demo.gif) |
 | [Delegator.py](https://github.com/kennethreitz/delegator.py) | Subprocesses for Humans 2.0. | -- |
 | [tqdm](https://github.com/tqdm/tqdm) | progress bar | ![tqdm-demo](https://raw.githubusercontent.com/tqdm/tqdm/master/images/tqdm.gif) |
 | [better-exceptions](https://github.com/Qix-/better-exceptions) | Pretty and more helpful exceptions | ![better-exception-demo](https://github.com/Qix-/better-exceptions/raw/master/screenshot.png) |

@@ -4,6 +4,7 @@
 
 | script | function | demo |
 | ------ | -------- | ---- |
+| [`httpie`](https://github.com/jakubroztocil/httpie) | Modern command line HTTP client | ![httpie-demo](https://raw.githubusercontent.com/jakubroztocil/httpie/master/httpie.gif) |
 | [`bat`](https://github.com/sharkdp/bat) | replace `cat`, with better highlighting for code and markdown | ![bat-demo](https://remysharp.com/images/cli-improved/bat.gif) |
 | [`prettyping`](https://github.com/denilsonsa/prettyping) | replace `ping`, with better animation and human reading | ![prettyping-demo](https://remysharp.com/images/cli-improved/ping.gif) |
 | [`fzf`](https://github.com/junegunn/fzf) | replace `CTRL+R`, with better interactive experience and interface | ![fzf-demo](https://i.vimeocdn.com/video/634721672.webp?mw=700&mh=437) |
