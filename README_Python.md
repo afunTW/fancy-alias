@@ -2,6 +2,7 @@
 
 | package | function | demo |
 | ------- | -------- | ---- |
+| [PySnooper](https://github.com/cool-RR/pysnooper) | Never use print for debugging again | -- |
 | [black](https://github.com/ambv/black) | The uncompromising Python code formatter | -- |
 | [requests-async](https://github.com/encode/requests-async) | async-await support for `requests` | -- |
 | [pyright](https://github.com/Microsoft/pyright) | Static type checker for Python (Microsoft) | -- |
