@@ -4,6 +4,7 @@
 
 | script | function | demo |
 | ------ | -------- | ---- |
+| [`jq`](https://github.com/stedolan/jq) | Command-line JSON processor http://stedolan.github.io/jq/ | -- |
 | [`tokei`](https://github.com/XAMPPRocky/tokei) | A program that allows you to count your code, quickly. | -- |
 | [`ranger`](https://github.com/ranger/ranger) | A VIM-inspired filemanager for the console https://ranger.github.io/ | ![ranger-demo](https://raw.githubusercontent.com/ranger/ranger-assets/master/screenshots/screenshot.png) |
 | [`fselect`](https://github.com/jhspetersson/fselect) | Find files with SQL-like queries | -- |
