@@ -2,6 +2,7 @@
 
 | package | function | demo |
 | ------- | -------- | ---- |
+| [stackprinter](https://github.com/cknd/stackprinter) | Debugging-friendly tracebacks for Python | ![demo-stackprinter](https://raw.githubusercontent.com/cknd/stackprinter/master/darkbg.png) |
 | [PySnooper](https://github.com/cool-RR/pysnooper) | Never use print for debugging again | -- |
 | [black](https://github.com/ambv/black) | The uncompromising Python code formatter | -- |
 | [requests-async](https://github.com/encode/requests-async) | async-await support for `requests` | -- |
