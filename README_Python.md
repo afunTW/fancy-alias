@@ -1,9 +1,6 @@
 # Python
 
-## Index
-
 - [Python](#python)
-  - [Index](#index)
   - [Concurrent / Parallel / Distributed](#concurrent--parallel--distributed)
   - [Debug / Profile](#debug--profile)
   - [Development](#development)
