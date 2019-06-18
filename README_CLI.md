@@ -4,6 +4,7 @@
 
 | script | function | demo |
 | ------ | -------- | ---- |
+| [`ripgrep-all`](https://github.com/phiresky/ripgrep-all) | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. | ![rga-demo](https://github.com/phiresky/ripgrep-all/raw/master/doc/demodir.png) |
 | [`dockle`](https://github.com/goodwithtech/dockle) | Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start | ![dockle-demo](https://raw.githubusercontent.com/goodwithtech/dockle/master/imgs/usage_fail_light.png) |
 | [`jq`](https://github.com/stedolan/jq) | Command-line JSON processor http://stedolan.github.io/jq/ | -- |
 | [`tokei`](https://github.com/XAMPPRocky/tokei) | A program that allows you to count your code, quickly. | -- |
