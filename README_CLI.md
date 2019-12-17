@@ -4,6 +4,7 @@
 
 | script | function | demo |
 | ------ | -------- | ---- |
+|  [`navi`](https://github.com/denisidoro/navi)  | An interactive cheatsheet tool for the command-line | ![navi-demo](https://user-images.githubusercontent.com/3226564/67864139-ebbcbf80-fb03-11e9-9abb-8e6664f77915.gif) |
 | [`ripgrep-all`](https://github.com/phiresky/ripgrep-all) | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. | ![rga-demo](https://github.com/phiresky/ripgrep-all/raw/master/doc/demodir.png) |
 | [`dockle`](https://github.com/goodwithtech/dockle) | Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start | ![dockle-demo](https://raw.githubusercontent.com/goodwithtech/dockle/master/imgs/usage_fail_light.png) |
 | [`jq`](https://github.com/stedolan/jq) | Command-line JSON processor http://stedolan.github.io/jq/ | -- |
