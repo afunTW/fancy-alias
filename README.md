@@ -1,4 +1,4 @@
-# better-working-with
+# fancy-alias
 
 ## Index
 
