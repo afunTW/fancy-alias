@@ -9,6 +9,7 @@
   - [Vim Plugin](./README_VimPlugin.md)
   - [VSCode Plugin](./README_VSCodePlugin.md)
   - [Crawler](./README_Crawler.md)
+- [Solution for specfic issue](./script/)
 - [Contribute](#contribute)
 
 ## Contribute
