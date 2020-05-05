@@ -54,6 +54,7 @@
 
 | package | function | demo |
 | ------- | -------- | ---- |
+| [rich](https://github.com/willmcgugan/rich) | Rich is a Python library for rich text and beautiful formatting in the terminal. https://www.willmcgugan.com/tag/rich/ | ![rich-demo](https://github.com/willmcgugan/rich/raw/master/imgs/features.png) |
 | [loguru](https://github.com/Delgan/loguru) | Python logging made (stupidly) simple | ![loguru-demo](https://raw.githubusercontent.com/Delgan/loguru/master/docs/_static/img/demo.gif) |
 | [logme](https://github.com/BNMetrics/logme) | colorful logging | ![logme-demo](https://camo.githubusercontent.com/87caa7a4db779bab89268287c75db23da80435ad/687474703a2f2f6c6f676d652e72656164746865646f63732e696f2f656e2f6c61746573742f5f696d616765732f64656d6f5f636f6c6f722e706e67) |
 | [coloredlogs](https://github.com/xolox/python-coloredlogs) | Colored stream handler for Python's logging module | ![coloredlogs-demo](https://camo.githubusercontent.com/051f32c9866c6f552682955b5fde580778c63a94/68747470733a2f2f636f6c6f7265646c6f67732e72656164746865646f63732e696f2f656e2f6c61746573742f5f696d616765732f64656661756c74732e706e67) |
