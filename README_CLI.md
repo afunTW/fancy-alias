@@ -4,6 +4,7 @@
 
 | script | function | demo |
 | ------ | -------- | ---- |
+| [`graphqurl`](https://github.com/hasura/graphqurl) | curl for GraphQL with autocomplete | ![graphqurl-demo](https://github.com/hasura/graphqurl/raw/master/assets/subscription.gif) |
 | [`jsondiffpatch`](https://github.com/benjamine/jsondiffpatch) | Diff & patch JavaScript objects | ![diffjson-demo](https://raw.githubusercontent.com/benjamine/jsondiffpatch/master/docs/demo/consoledemo.png) |
 | [`git-open`](https://github.com/paulirish/git-open) | Type `git open` to open the GitHub page or website for a repository in your browser. | ![git-open-demo](https://user-images.githubusercontent.com/39191/33507513-f60041ae-d6a9-11e7-985c-ab296d6a5b0f.gif) |
 | [`autojump`](https://github.com/wting/autojump) | A cd command that learns - easily navigate directories from the command line | -- |
